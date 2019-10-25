@@ -1,0 +1,14 @@
+{
+  "name": "m9-webstarter-min",
+  "version": "0.0.1",
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {
+    "@tsertkov/m9-generator": "0.0.31"
+  },
+  "scripts": {
+    "dev": "m9 dev",
+    "test": "m9 test",
+    "deploy": "m9 deploy"
+  }
+}
