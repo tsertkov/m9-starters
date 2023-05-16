@@ -4,7 +4,7 @@
   "license": "UNLICENSED",
   "private": true,
   "dependencies": {
-    "@tsertkov/m9-generator": "0.0.31"
+    "@tsertkov/m9-generator": "0.*"
   },
   "scripts": {
     "dev": "m9 dev",
